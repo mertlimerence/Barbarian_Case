@@ -15,7 +15,7 @@ C:/Users/Term 1/Desktop/Barbarian_Case/Barbarian_Case
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-61903
+63756
 Successfully changed project path to: C:/Users/Term 1/Desktop/Barbarian_Case/Barbarian_Case
 C:/Users/Term 1/Desktop/Barbarian_Case/Barbarian_Case
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/Term 1/Desktop/Barbarian_Case/Barbarian_Case
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [15064] Host "[IP] 192.168.1.213 [Port] 0 [Flags] 2 [Guid] 3014212356 [EditorId] 3014212356 [Version] 1048832 [Id] WindowsEditor(7,Term1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [10520] Host "[IP] 192.168.1.213 [Port] 0 [Flags] 2 [Guid] 2931067273 [EditorId] 2931067273 [Version] 1048832 [Id] WindowsEditor(7,Term1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [15064] Host "[IP] 192.168.1.213 [Port] 0 [Flags] 2 [Guid] 3014212356 [EditorId] 3014212356 [Version] 1048832 [Id] WindowsEditor(7,Term1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [10520] Host "[IP] 192.168.1.213 [Port] 0 [Flags] 2 [Guid] 2931067273 [EditorId] 2931067273 [Version] 1048832 [Id] WindowsEditor(7,Term1) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 69.67 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 63.44 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.15f1 (e8e88683f834)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/Resources/UnitySubsystems
@@ -67,81 +67,81 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.15f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005631 seconds.
+Registered in 0.005778 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 68.15 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 63.75 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.514 seconds
+- Completed reload, in  0.501 seconds
 Domain Reload Profiling:
-	ReloadAssembly (515ms)
-		BeginReloadAssembly (59ms)
+	ReloadAssembly (502ms)
+		BeginReloadAssembly (55ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (368ms)
-			LoadAssemblies (58ms)
+		EndReloadAssembly (359ms)
+			LoadAssemblies (54ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (81ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (22ms)
-			SetupLoadedEditorAssemblies (226ms)
+			SetupLoadedEditorAssemblies (217ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (50ms)
+				InitializePlatformSupportModulesInManaged (45ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (68ms)
+				RefreshPlugins (64ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (73ms)
-				ProcessInitializeOnLoadMethodAttributes (33ms)
+				ProcessInitializeOnLoadAttributes (75ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004065 seconds.
+Registered in 0.004160 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Term 1\Desktop\Barbarian_Case\Barbarian_Case\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Term 1\Desktop\Barbarian_Case\Barbarian_Case\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.52 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.914 seconds
+- Completed reload, in  0.936 seconds
 Domain Reload Profiling:
-	ReloadAssembly (914ms)
-		BeginReloadAssembly (185ms)
+	ReloadAssembly (936ms)
+		BeginReloadAssembly (186ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (119ms)
-		EndReloadAssembly (639ms)
-			LoadAssemblies (61ms)
+			CreateAndSetChildDomain (120ms)
+		EndReloadAssembly (633ms)
+			LoadAssemblies (69ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (219ms)
+			SetupTypeCache (212ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (289ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (281ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (12ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (71ms)
-				ProcessInitializeOnLoadAttributes (180ms)
-				ProcessInitializeOnLoadMethodAttributes (19ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (169ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
 				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -150,12 +150,12 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3361 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 27 unused Assets / (113.7 KB). Loaded Objects now: 3820.
 Memory consumption went from 115.7 MB to 115.6 MB.
-Total: 2.529800 ms (FindLiveObjects: 0.235500 ms CreateObjectMapping: 0.121600 ms MarkObjects: 2.078200 ms  DeleteObjects: 0.093800 ms)
+Total: 2.936200 ms (FindLiveObjects: 0.204000 ms CreateObjectMapping: 0.092100 ms MarkObjects: 2.552000 ms  DeleteObjects: 0.086200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -169,79 +169,13 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 93198.566260 seconds.
-  path: Assets/Models/Texture/New Material.mat
+  Time since last request: 94924.040667 seconds.
+  path: Assets/Models/Texture/Barbarian_lv6BaseColar_Mat.mat
   artifactKey: Guid(7406be3c1e4775d48a91cb623ee1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/New Material.mat using Guid(7406be3c1e4775d48a91cb623ee1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3577ebd5ee795260cb1971e96af07f0') in 0.115177 seconds 
+Start importing Assets/Models/Texture/Barbarian_lv6BaseColar_Mat.mat using Guid(7406be3c1e4775d48a91cb623ee1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7a6468b8a129b568cd456734c0f3f0') in 0.110026 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 19.795131 seconds.
-  path: Assets/Models/Texture/Barbarian_Props_Normal_Texture.png
-  artifactKey: Guid(8083377c8e315974d8514bd1282dc89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Barbarian_Props_Normal_Texture.png using Guid(8083377c8e315974d8514bd1282dc89e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84666728cef2ce13ccc32e5462d181f8') in 0.040642 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 40.192838 seconds.
-  path: Assets/Models/Texture/New Material 1.mat
-  artifactKey: Guid(d6082413c9a87404e8bf047248d80b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/New Material 1.mat using Guid(d6082413c9a87404e8bf047248d80b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2fc3a164c8a00c4ee7fbbcc2e169be') in 0.179782 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 19.612853 seconds.
-  path: Assets/Models/Texture/Barbarian_Normal_Texture.png
-  artifactKey: Guid(79544f7e82b442f4ba6269e89cc522fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Barbarian_Normal_Texture.png using Guid(79544f7e82b442f4ba6269e89cc522fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62460a6fa67658d4dfdf369a0b051889') in 0.031607 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 89.967384 seconds.
-  path: Assets/Models/Texture/Barbarian_BaseColar_Mat.mat
-  artifactKey: Guid(7406be3c1e4775d48a91cb623ee1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Barbarian_BaseColar_Mat.mat using Guid(7406be3c1e4775d48a91cb623ee1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f25c1b0b1eacd328a3f90890a9340c0') in 0.026860 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 19.242735 seconds.
+  Time since last request: 91.270957 seconds.
   path: Assets/Models/Texture/Props_BaseColar_Mat.mat
   artifactKey: Guid(d6082413c9a87404e8bf047248d80b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Props_BaseColar_Mat.mat using Guid(d6082413c9a87404e8bf047248d80b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42c5ac02c912a24bd76905f9c8ce4b57') in 0.017213 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 212.312022 seconds.
-  path: Assets/Models/Texture/Props_BaseColar_Mat 1.mat
-  artifactKey: Guid(d72898d08f74f0848b5c7d5763192b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Props_BaseColar_Mat 1.mat using Guid(d72898d08f74f0848b5c7d5763192b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeead2c50b23c2b4118b539db1edfba8') in 0.019531 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.250843 seconds.
-  path: Assets/Models/Texture/Props_lv5BaseColar_Mat 1.mat
-  artifactKey: Guid(d72898d08f74f0848b5c7d5763192b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Props_lv5BaseColar_Mat 1.mat using Guid(d72898d08f74f0848b5c7d5763192b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8d4f212cea991ee3b18691ec74a481') in 0.018885 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 35.216366 seconds.
-  path: Assets/Models/Texture/Props_BaseColar_Mat 1.mat
-  artifactKey: Guid(ab1349a4987be854e84c2ed5a1d6541c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Props_BaseColar_Mat 1.mat using Guid(ab1349a4987be854e84c2ed5a1d6541c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4db5e1aa70a6a5cbe22875a9028543') in 0.017546 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 13.049571 seconds.
-  path: Assets/Models/Texture/Props_lv6BaseColar_Mat 1.mat
-  artifactKey: Guid(ab1349a4987be854e84c2ed5a1d6541c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Props_lv6BaseColar_Mat 1.mat using Guid(ab1349a4987be854e84c2ed5a1d6541c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b21f94cdcf2056e3b56d1f27eaba28') in 0.017199 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.096000 seconds.
-  path: Assets/Models/Texture/Barbarian_BaseColar_Mat 1.mat
-  artifactKey: Guid(6d76aa583b638e742bb08ac810ab2268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Barbarian_BaseColar_Mat 1.mat using Guid(6d76aa583b638e742bb08ac810ab2268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe5bce70d43e38c53a7402270bf10615') in 0.025695 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 16.761006 seconds.
-  path: Assets/Models/Texture/Barbarian_lv6BaseColar_Mat.mat
-  artifactKey: Guid(7406be3c1e4775d48a91cb623ee1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Barbarian_lv6BaseColar_Mat.mat using Guid(7406be3c1e4775d48a91cb623ee1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7255aa81c1e5a1747bdfedfee81a2168') in 0.019652 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 34.071675 seconds.
-  path: Assets/Models/Texture/Barbarian_lv6BaseColar_Mat.mat
-  artifactKey: Guid(7406be3c1e4775d48a91cb623ee1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Models/Texture/Barbarian_lv6BaseColar_Mat.mat using Guid(7406be3c1e4775d48a91cb623ee1f355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0c8107634b79c537a14e67a93c15e3') in 0.019337 seconds 
+Start importing Assets/Models/Texture/Props_BaseColar_Mat.mat using Guid(d6082413c9a87404e8bf047248d80b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a90be3861f6930a64e68b27c7766961') in 0.075057 seconds 
